@@ -28,4 +28,4 @@ application.constant('DOMAIN', {
 
 Si el puerto con el que esta levantada nuestra API es diferente, basta con poner la correcta, y listo ya con esto deberas poder usar la aplicación.
 ****
-![Angular Google Maps](https://github.com/CayetanoHerreraLuisRicardo/CayetanoHerreraLuisRicardo.github.io/blob/main/assets/images/image1.png)
+![Angular Google Maps](https://github.com/CayetanoHerreraLuisRicardo/IA.Restaurant.Frontend/blob/main/assets/images/image1.png)
